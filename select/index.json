@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "寂寞寂寞就好",
+  "base_artist": "田馥甄",
+  "createdAt": "2026-03-02T07:04:42.666376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/01_寂寞寂寞就好_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/02_寂寞寂寞就好_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/03_寂寞寂寞就好_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/04_寂寞寂寞就好_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "A-Mei Chang",
+      "has_synced": true,
+      "path": "select/05_寂寞寂寞就好_A-Mei_Chang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好 - Live",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/06_寂寞寂寞就好_-_Live_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "田馥甄(Hebe)",
+      "has_synced": true,
+      "path": "select/07_寂寞寂寞就好_田馥甄(Hebe).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/08_寂寞寂寞就好_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "田馥甄 - 寂寞寂寞就好",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/09_田馥甄_-_寂寞寂寞就好_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好 - Sound Of My Dream / Live",
+      "artist": "A-Mei Chang",
+      "has_synced": true,
+      "path": "select/10_寂寞寂寞就好_-_Sound_Of_My_Dream___Live_A-Mei_Chang.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/11_寂寞寂寞就好_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好 (Live)",
+      "artist": "S.H.E",
+      "has_synced": true,
+      "path": "select/12_寂寞寂寞就好_(Live)_S.H.E.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好 (Live)",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/13_寂寞寂寞就好_(Live)_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好 (Live)",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/14_寂寞寂寞就好_(Live)_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "Hebe",
+      "has_synced": true,
+      "path": "select/15_寂寞寂寞就好_Hebe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "Hebe Tien 田馥甄",
+      "has_synced": true,
+      "path": "select/16_寂寞寂寞就好_Hebe_Tien_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "寂寞寂寞就好",
+      "artist": "尤長靖",
+      "has_synced": false,
+      "path": "select/17_寂寞寂寞就好_尤長靖.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寂寞寂寞就好",
+      "artist": "田馥甄",
+      "has_synced": false,
+      "path": "select/pl_01_寂寞寂寞就好_田馥甄.txt"
+    }
+  ]
+}
